@@ -1,7 +1,7 @@
 # How to run
 The code was splited into three sessions (original_analysis, figure and object).
 
-The folder of original_analysis contains code for (1) annotation of airway and inflammatory regions, (2) RCTD cell type deconvolution, (3) Unsupervised clustering and (4) sptial communication.
+The folder of original_analysis contains code for (1) RCTD cell type deconvolution, (2) sptial communication, (3) Unsupervised clustering and (4) annotation of airway and inflammatory regions. The code in the folder of original_analysis should be ran in the order above. Notably, some spots fail in RCTD or commot will be first excluded from the study.
 
 The folder of figure contains code for making main figures and supplementory figures. 
 
