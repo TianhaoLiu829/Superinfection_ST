@@ -9,5 +9,5 @@ The folder of "original_analysis" contains code for (1) RCTD cell type deconvolu
 The folder of "object" show be dowloaded from zenodo. The files contain the result from original analysis. The objects can be directly used to create figures with the code in folder of "figure".
 
 The folder of "figure" contains code for making main figures and supplementory figures. 
+<img width="3994" height="2181" alt="1 - Figure1" src="https://github.com/user-attachments/assets/980e0f44-2b6b-444b-b7c8-c2674ca58ec7" />
 
-![Figure1](https://github.com/user-attachments/assets/4df3686f-e7fc-4a52-ad72-fbbd76fed51d)
