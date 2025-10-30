@@ -6,7 +6,7 @@ The code was splited into three sessions (original_analysis, figure and object).
 
 The folder of "original_analysis" contains code for (1) RCTD cell type deconvolution, (2) sptial communication, (3) Unsupervised clustering and (4) annotation of airway and inflammatory regions. The code in the folder of original_analysis should be ran in the order above. Notably, some spots fail in RCTD or commot will be first excluded from the study.
 
-The folder of "object" show be dowloaded from zenodo. The files contain the result from original analysis. The objects can be directly used to create figures with the code in folder of "figure".
+The folder of "object" show be dowloaded from zenodo https://zenodo.org/records/17478724. The files contain the result from original analysis. The objects can be directly used to create figures with the code in folder of "figure".
 
 The folder of "downstream_analysis" contains code for making main figures and supplementory figures. 
 <img width="3994" height="2181" alt="1 - Figure1" src="https://github.com/user-attachments/assets/980e0f44-2b6b-444b-b7c8-c2674ca58ec7" />
